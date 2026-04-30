@@ -1,0 +1,6 @@
+{
+  "name": "Echo Shift",
+  "description": "A minimal neon time-distortion game where your past movements repeat as deadly echo clones. Avoid hitting walls and your own echoes to survive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
